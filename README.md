@@ -23,4 +23,5 @@ In addition to the temperature queries I have run queries to determine the summa
 ![December_precip](https://user-images.githubusercontent.com/86164867/132928769-8fab24a0-ef42-4cc9-9f59-1b3ee5a866a9.PNG)
 ![june_precip](https://user-images.githubusercontent.com/86164867/132928771-9b21b279-f366-4aef-bb85-9d667c524bb3.PNG)
 
+The precipitation data shows a significant difference in average daily rainfall between June (.136 inches) and December (.217 inches). While it is not sufficient to preculde customers from visiting the store in December, it does corroborate the theory derived from the temperature data that the weather will have a slight negative impact on business during th winter.
 
